@@ -16,7 +16,7 @@ Ensure you have the following installed:
 - `paint.cc`: Main C++ source file.
 - `Makefile`: Build the project.
 - `src/`
-    - `include/`: ** Header files 
+    - `include/`:  Header files 
     
 
 ### Installation
