@@ -1,6 +1,6 @@
-# Advanced Paint Project
+#  Paint Application
 
-A simple yet feature-rich paint application built using C++ and SDL2. This project allows users to draw freehand, lines, rectangles, and circles, with a variety of colors and brush sizes. It also includes features like undo, clear canvas, save and load functionality.
+A feature-rich paint application built using C++ and SDL2. This project allows users to draw freehand, lines, rectangles, and circles, with a variety of colors and brush sizes. It also includes features like undo, clear canvas, save and load functionality.
 
 ## Getting Started
 
@@ -13,24 +13,24 @@ Ensure you have the following installed:
 
 ## Project Structure
 
-- `main.cc`: Main C++ source file.
+- `paint.cc`: Main C++ source file.
 - `Makefile`: Build the project.
 - `src/`:  **(Optional) Source code directory for future expansion**
-    - `include/`: **(Optional) Header files for future expansion**
-    - `lib/`: **(Optional) SDL related libraries, currently not used directly in project structure**
+    - `include/`: ** Header files 
+    
 
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone git@github.com:Luke23-45/Colorfull-Ball-with-Particle-Effect-Animation.git
+    git clone git@github.com:Luke23-45/Painting-Application.git
     ```
 ## Building
 
 This project uses `make` for building. To build the project, run the following command in your terminal:
 
-2. Navigate to the project directory:
+1. Navigate to the project directory:
     ```bash
-    cd Colorfull-Ball-with-Particle-Effect-Animation
+    cd Painting-Application
     ```
 3. Compile the code:
     ```bash
@@ -38,7 +38,7 @@ This project uses `make` for building. To build the project, run the following c
     ```
 4. Run the executable:
     ```bash
-    ./Colorfull-Ball-with-Particle-Effect-Animation
+    ./main
 
     ```
 5. In window (if built for Windows using MinGW or similar):
@@ -95,7 +95,7 @@ The project is primarily contained within `main.cc`. Here's a brief overview:
 
 ## Demo Video
 Check out the project demo video on YouTube: [Demo video to be added - Replace with your project demo video link]
-**(Note: The provided YouTube link in the template might not be relevant to this paint application and should be replaced with the correct demo video for this project.)**
+
 
 ## License
 
