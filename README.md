@@ -94,7 +94,7 @@ The project is primarily contained within `main.cc`. Here's a brief overview:
 - **Helper Functions (`drawCircle`, `drawPreviewShape`, `commitShape`)**:  Provides utility functions for drawing shapes and managing shape previews.
 
 ## Demo Video
-Check out the project demo video on YouTube: [Demo video to be added - Replace with your project demo video link]
+Check out the project demo video on YouTube: https://youtu.be/HDTzYFRzg50
 
 
 ## License
